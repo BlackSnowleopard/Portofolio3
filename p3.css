@@ -1,0 +1,27 @@
+body{
+    color: none;
+   
+
+}
+.home {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: none;
+    padding: 20px;
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    background-size: 1240px 600px;
+    background-image: url('kNyF1h.jpg');
+    
+}
+.home1 {
+    background-color: none;
+    color:aliceblue;
+
+} 
+.home2 {
+    background-color: none;
+    
+}
